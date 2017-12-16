@@ -7,14 +7,14 @@ Sample Execution 1:
 <br />
 Enter the number of rows in the triangle: 2 <br />
 <br />
- * <br />
-***
+ `*` <br />
+`***`
 <br />
 <br />
 Sample Execution 2:
 <br />
 Enter the number of rows in the triangle: 3 
 <br />
-  * <br />
- * * <br />
-*****
+  `*` <br />
+ `* *` <br />
+`*****`
