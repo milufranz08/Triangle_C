@@ -3,15 +3,16 @@ C program that uses the “*” character to draw a triangle of a given number o
 <br />
 Here are some sample outputs from the execution of the program: 
 <br />
-Sample Execution 1:
 <br />
-Enter the number of rows in the triangle: 2 <br />
+###### Sample Execution 1:
+<br />
+Enter the number of rows in the triangle: 2
 <br />
  `*` <br />
 `***`
 <br />
 <br />
-Sample Execution 2:
+###### Sample Execution 2:
 <br />
 Enter the number of rows in the triangle: 3 
 <br />
