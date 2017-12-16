@@ -59,6 +59,8 @@ static void makeTriangle(int answer) {
 	}
 }
 
+// Main function
+
 int main() {
 
 	bool ask = true;
