@@ -4,7 +4,7 @@ C program that uses the “*” character to draw a triangle of a given number o
 Here are some sample outputs from the execution of the program: 
 <br />
 <br />
-###### Sample Execution 1:
+Sample Execution 1:
 <br />
 Enter the number of rows in the triangle: 2
 <br />
@@ -12,7 +12,7 @@ Enter the number of rows in the triangle: 2
 `***`
 <br />
 <br />
-###### Sample Execution 2:
+Sample Execution 2:
 <br />
 Enter the number of rows in the triangle: 3 
 <br />
